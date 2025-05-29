@@ -68,7 +68,7 @@ ${formData.message}
 
       // Try to submit to a form handler first (if available)
       try {
-        const response = await fetch("/api/contact", {
+        const response = await fetch("https://chesolutions-api.onrender.com/api/contact", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
