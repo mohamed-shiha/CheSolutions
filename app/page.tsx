@@ -285,7 +285,7 @@ export default function HomePage() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-white">Phone</h4>
-                      <p className="text-gray-300">+353 (0) 1 234 5678</p>
+                      <p className="text-gray-300">+353 (086) 086 9970</p>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4">
