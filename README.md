@@ -1,10 +1,10 @@
-# CheSolutions Website
+# Che Tech Solutions Website
 
-A professional website for CheSolutions - Ireland's leading provider of paperless factory solutions for manufacturing operations.
+A professional website for Che Tech Solutions - Ireland's leading provider of paperless factory solutions for manufacturing operations.
 
 ## About
 
-CheSolutions helps manufacturing facilities digitize their processes by eliminating paper-based systems and implementing modern digital solutions that increase efficiency and sustainability.
+Che Tech Solutions helps manufacturing facilities digitize their processes by eliminating paper-based systems and implementing modern digital solutions that increase efficiency and sustainability.
 
 ## Features
 

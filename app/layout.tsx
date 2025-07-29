@@ -7,9 +7,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "CheSolutions - Paperless Factory Solutions",
+  title: "Che Tech Solutions - Paperless Factory Solutions",
   description:
-    "Transform your factory to paperless operations with CheSolutions' cutting-edge systems and solutions. Digital transformation experts for Irish manufacturing.",
+    "Transform your factory to paperless operations with Che Tech Solutions' cutting-edge systems and solutions. Digital transformation experts for Irish manufacturing.",
   keywords: "paperless factory, digital transformation, manufacturing solutions, Ireland, factory automation",
 }
 

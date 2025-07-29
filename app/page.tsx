@@ -28,7 +28,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Factory className="h-8 w-8 text-blue-600" />
-            <span className="text-2xl font-bold text-gray-900">CheSolutions</span>
+            <span className="text-2xl font-bold text-gray-900">Che Tech Solutions</span>
           </div>
           <nav className="hidden md:flex items-center space-x-8">
             <Link href="#services" className="text-gray-600 hover:text-blue-600 transition-colors">
@@ -223,7 +223,7 @@ export default function HomePage() {
       <section id="about" className="py-20">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-4xl font-bold text-gray-900 mb-6">About CheSolutions</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-6">About Che Tech Solutions</h2>
             <p className="text-xl text-gray-600 mb-8">
               We are Ireland's leading provider of paperless factory solutions, specializing in digital transformation
               for manufacturing facilities. Our team of experts combines deep industry knowledge with cutting-edge
@@ -336,10 +336,10 @@ export default function HomePage() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Factory className="h-6 w-6 text-blue-400" />
-              <span className="text-xl font-bold">CheSolutions</span>
+              <span className="text-xl font-bold">Che Tech Solutions</span>
             </div>
             <p className="text-gray-400 text-center md:text-right">
-              © 2024 CheSolutions. All rights reserved. | Transforming Irish Manufacturing
+              © 2024 Che Tech Solutions. All rights reserved. | Transforming Irish Manufacturing
             </p>
           </div>
         </div>
