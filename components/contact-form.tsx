@@ -64,7 +64,7 @@ ${formData.message}
       `.trim()
 
       // Create mailto link
-      const mailtoLink = `mailto:info@chesolutions.ie?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+      const mailtoLink = `mailto:info@chetechsolutions.ie?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
 
       // Try to submit to a form handler first (if available)
       try {

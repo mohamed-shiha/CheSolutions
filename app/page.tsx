@@ -276,7 +276,7 @@ export default function HomePage() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-white">Email</h4>
-                      <p className="text-gray-300">info@chesolutions.ie</p>
+                      <p className="text-gray-300">info@chetechsolutions.ie</p>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4">

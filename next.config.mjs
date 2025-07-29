@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  assetPrefix: process.env.NODE_ENV === 'production' ? 'https://chesolutions.ie' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? 'https://chetechsolutions.ie' : '',
   eslint: {
     ignoreDuringBuilds: true,
   },
