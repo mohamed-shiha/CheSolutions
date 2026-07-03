@@ -1,17 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  trailingSlash: true,
-  assetPrefix: process.env.NODE_ENV === 'production' ? 'https://chetechsolutions.ie' : '',
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  reactStrictMode: true,
   images: {
-    unoptimized: true
-  }
-}
+    formats: ["image/avif", "image/webp"],
+  },
+};
 
-export default nextConfig
+export default nextConfig;
