@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Space_Grotesk, JetBrains_Mono } from "next/font/google";
+import { Roboto, Space_Grotesk, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { SmoothScroll } from "@/components/motion/smooth-scroll";
 import { Navbar } from "@/components/layout/navbar";
@@ -7,8 +7,9 @@ import { Footer } from "@/components/layout/footer";
 import { Toaster } from "sonner";
 import { siteConfig } from "@/lib/site";
 
-const sans = Inter({
+const sans = Roboto({
   subsets: ["latin"],
+  weight: ["400", "500"], // Regular and Medium
   variable: "--font-sans",
   display: "swap",
 });
