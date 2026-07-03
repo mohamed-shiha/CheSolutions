@@ -3,10 +3,10 @@ export const siteConfig = {
   tagline: "Software that powers the factory floor.",
   description:
     "CheTechSolutions builds custom software for factories — web apps, Android apps, and machine integrations — that replace paper, manual steps, and brittle spreadsheets with reliable automation.",
-  url: "https://chetechsolutions.example.com",
-  email: "hello@chetechsolutions.example.com",
-  phone: "+1 (555) 010-2026",
-  address: "Remote-first · Serving factories worldwide",
+  url: "https://chetechsolutions.ie",
+  email: "inof@chetechsolutions.ie",
+  phone: "+353860869970",
+  address: "Ireland, CO.Mayo",
   social: {
     linkedin: "#",
     github: "#",

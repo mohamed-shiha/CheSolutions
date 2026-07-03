@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     q: "What does it cost?",
-    a: "Pilots start around $15k. Typical production systems range from $60k to $300k+. We'll always share a price range before we start.",
+    a: "Pilots start around €15k. Typical production systems range from €60k to €300k+. We'll always share a price range before we start.",
   },
 ];
 
