@@ -16,7 +16,7 @@ const services = [
   "Not sure yet",
 ];
 
-const budgets = ["< $25k", "$25k – $75k", "$75k – $200k", "$200k+", "Not sure yet"];
+const budgets = ["< €25k", "€25k – €75k", "€75k – €200k", "€200k+", "Not sure yet"];
 
 export function ContactForm() {
   const [submitting, setSubmitting] = useState(false);
