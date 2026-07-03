@@ -44,7 +44,6 @@
   body {
     background-color: hsl(var(--background));
     color: hsl(var(--foreground));
-    font-feature-settings: "ss01", "ss02", "cv11";
     overflow-x: hidden;
   }
 
